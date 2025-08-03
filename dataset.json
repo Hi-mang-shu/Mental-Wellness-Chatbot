@@ -1,0 +1,66 @@
+{
+  "intents": {
+    "greeting": {
+      "examples": [
+        "hello", "hi", "hey", "good morning", "good noon", "good afternoon", "good evening",
+        "is anyone there", "howdy", "hey there", "yo", "hi bot"
+      ],
+      "response": "Hello! I'm here to support your mental well-being. How are you feeling today?"
+    },
+    "feeling_down": {
+      "examples": [
+        "I'm feeling sad", "I'm depressed", "I feel down", "not feeling well",
+        "I'm emotionally tired", "I can't handle this anymore", "I feel hopeless",
+        "I'm overwhelmed", "I want to cry", "I'm mentally exhausted"
+      ],
+      "response": "I'm really sorry you're feeling this way. You're not alone, and I'm here to listen. Would you like to talk more about it?"
+    },
+    "anxiety_help": {
+      "examples": [
+        "I'm anxious", "I feel nervous", "I have anxiety", "how do I calm down",
+        "my heart is racing", "I'm panicking", "how to stop overthinking",
+        "I'm stressed about everything", "I have a panic attack", "I can't focus"
+      ],
+      "response": "Try to take a few deep breaths with me. Inhale... Exhale... You can also try grounding exercises like naming 5 things you see. Want more tips?"
+    },
+    "sleep_advice": {
+      "examples": [
+        "I can't sleep", "how to sleep better", "sleep problems", "I'm not sleeping enough",
+        "I'm staying up all night", "my mind won't stop", "sleep anxiety",
+        "any tips for sleeping", "how to fall asleep fast", "insomnia help"
+      ],
+      "response": "Establishing a bedtime routine, reducing screen time, and calming activities like reading can help. Want a guided relaxation tip?"
+    },
+    "motivation": {
+      "examples": [
+        "I need motivation", "help me stay positive", "I feel like giving up", "how to stay strong",
+        "inspire me", "encourage me", "positive thoughts please",
+        "give me a quote", "I want to be happy", "I feel low energy"
+      ],
+      "response": "You’re stronger than you think. Even small steps forward are progress. Remember: 'This too shall pass.' Would you like a motivational quote?"
+    },
+    "coping_tips": {
+      "examples": [
+        "how to cope", "mental health tips", "how to manage stress", "self care tips",
+        "ways to feel better", "how to be okay", "tips to stay calm",
+        "how to take care of myself", "any coping techniques", "I need wellness advice"
+      ],
+      "response": "Everyone's journey is unique, but regular sleep, balanced diet, journaling, and connecting with loved ones often help. Want a list of coping methods?"
+    },
+    "talk_request": {
+      "examples": [
+        "can we talk", "I just want to talk", "I need someone to talk to", "talk with me",
+        "let's chat", "I need to vent", "can I tell you something",
+        "I need support", "will you listen", "I'm alone"
+      ],
+      "response": "I'm always here to listen. You can share anything with me, and I'll respond with care. What's on your mind?"
+    },
+    "goodbye": {
+      "examples": [
+        "bye", "goodbye", "see you later", "talk to you later", "catch you soon",
+        "take care", "I’m signing off", "that’s all for now", "thanks, bye", "see ya"
+      ],
+      "response": "Take care of yourself! I'm always here if you need to talk again. You're doing great!"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+gTTS
+pygame
+SpeechRecognition
+scikit-learn
+numpy
+tk
