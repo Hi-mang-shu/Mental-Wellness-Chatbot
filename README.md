@@ -13,8 +13,6 @@ A speech-based chatbot assistant that listens to the user, understands intent us
 - `chatbot.ipynb` – Jupyter notebook (training + voice chat)
 - `chatbot_gui.py` – GUI-based chatbot (optional)
 - `dataset.json` – Custom dataset for intent detection
-- `report.pdf` – Project report
-- `group.txt` – Group member name(s)
 - `requirements.txt` – List of required Python packages
 
 ## 🚀 How to Run
@@ -24,4 +22,5 @@ A speech-based chatbot assistant that listens to the user, understands intent us
 
 ## 🎓 Internship Project
 Final project for AI/ML Internship — Speech-Based Chatbot Assistant with AI Integration.
+
 
