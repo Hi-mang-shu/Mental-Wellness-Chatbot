@@ -19,8 +19,3 @@ A speech-based chatbot assistant that listens to the user, understands intent us
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `chatbot_gui.py` or open `chatbot.ipynb`
-
-## 🎓 Internship Project
-Final project for AI/ML Internship — Speech-Based Chatbot Assistant with AI Integration.
-
-
