@@ -10,12 +10,12 @@ A speech-based chatbot assistant that listens to the user, understands intent us
 - Tkinter-based GUI interface for user-friendly interaction
 
 ## 📂 Files
-- `chatbot.ipynb` – Jupyter notebook (training + voice chat)
-- `chatbot_gui.py` – GUI-based chatbot (optional)
+- `chatbot.ipynb` – Jupyter notebook (training + voice chat) 
 - `dataset.json` – Custom dataset for intent detection
 - `requirements.txt` – List of required Python packages
 
 ## 🚀 How to Run
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run `chatbot_gui.py` or open `chatbot.ipynb`
+3. Run or open `chatbot.ipynb`
+
